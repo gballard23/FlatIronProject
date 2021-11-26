@@ -1,0 +1,39 @@
+ body {
+     background-image: url("mcuposter.png");
+     background-color: #cccccc;
+     background-position:0 15%;
+     background-size: cover;e
+     margin: 0 auto;
+     
+ }
+
+h1, h2 {
+    color: rgb(253, 251, 251);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;    
+}
+
+h1 {
+    font-size: 4rem;
+    margin-top: 30vh;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+}
+
+h2 {
+    font-size: 2rem;
+    margin: 0 auto 50px;
+    position: top;
+}
+
+#search{
+    margin: 0 auto;
+    display: block;
+      }
+    
+  
+
+  .searchbar{
+      overflow: hidden;
+  }
