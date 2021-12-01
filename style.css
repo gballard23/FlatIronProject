@@ -2,7 +2,7 @@
      background-image: url("mcuposter.png");
      background-color: #cccccc;
      background-position:0 15%;
-     background-size: cover;e
+     background-size: cover;
      margin: 0 auto;
      
  }
@@ -31,9 +31,12 @@ h2 {
     margin: 0 auto;
     display: block;
       }
+#btnClick{
+    margin: 0 auto;
+    display: block;
     
-  
-
-  .searchbar{
+}
+.searchbar{
       overflow: hidden;
+      border: none;
   }
