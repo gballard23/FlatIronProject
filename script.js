@@ -1,41 +1,18 @@
-const mockurl = 'http://localhost:3000/MCU/1';
-
-
-async function getMockUrl(url){
-
-    const response = await fetch(url);
-
-    let data = await response.json();
-        console.log(data);
+fetch('http://localhost:3000/MCU')
+    .then(res => res.json())
+    .then((json) => console.log(json));
     
-    show(data);
+const divTable = document.createElement('div');
 
+document.body.append(divTable);
+
+const table = document.createElement('table');
+
+for(let i = 0; i < 7; i++) {
+    const td = document.createElement('td');
+    const tr = document.createElement('tr');
 }
 
-getMockUrl(mockurl);
 
 
-function show(data) {
-    let tab = 
-        `<tr>
-          <th>Title</th>
-          <th>Released</th>
-          <th>Director</th>
-          <th>Producer</th>
-          <th>Image</th>
-         </tr>`;
-    
-    
-    for (let r in data) {
-        tab += `<tr> 
-    <td>${r.title} </td>
-    <td>${r.released}</td>
-    <td>${r.director}</td> 
-    <td>${r.producer}</td>
-    <td>${r.image-url}</td>          
-    </tr>`;
-    }
-    
-    document.getElementById("movielist").innerHTML = tab;
-}
 

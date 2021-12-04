@@ -3,9 +3,230 @@
     {
       "id": 1,
       "title": "Captian America: The First Avenger",
-      "realeased": "July 19, 2011",
+      "released": "July 19, 2011",
       "director": "Joe Johnston",
-      "producer": "Kevin Feige"
+      "producer": "Kevin Feige",
+      "starring": "Chris Evans"
+    },
+    {
+      "id": 2,
+      "title": "Captian Marvel",
+      "released": "March 4, 2019",
+      "director": "Anne Boden, Ryan Fleck",
+      "producer": "Kevin Feige",
+      "starring": "Brie Larson"
+    },
+    {
+      "id": 3,
+      "title": "Iron Man",
+      "released": "May 2, 2008",
+      "director": "Jon Favreau",
+      "producer": "Kevin Feige",
+      "starring": "Robert Downey Jr"
+    },
+    {
+      "id": 4,
+      "title": "Iron Man 2",
+      "released": "May 7, 2010",
+      "director": "Jon Favreau",
+      "producer": "Kevin Feige",
+      "starring": "Robert Downey Jr"
+    },
+    {"id": 5,
+      "title": "Thor",
+      "released": "May 2, 2011",
+      "director": "Kenneth Branagh",
+      "producer": "Kevin Feige",
+      "starring": "Chris Hemsworth"
+    },
+    {
+      "id": 6,
+      "title": "Avenger",
+      "released": "May 4, 2012",
+      "director": "Joss Whedon",
+      "producer": "Kevin Feige",
+      "starring": "Robert Downey Jr, Chris Hemsworth, Mark Ruffalo, Chris Evens, Scarlett Johansson, Jeremy Renner"
+    },
+    {
+      "id": 7,
+      "title": "Thor: The Dark World",
+      "released": "November 8, 2013",
+      "director": "Alan Taylor",
+      "producer": "Kevin Feige",
+      "starring": "Chris Hemsworth"
+    },
+    {
+      "id": 8,
+      "title": "Iron Man 3",
+      "released": "May 3, 2013",
+      "director": "Shane Black",
+      "producer": "Kevin Feige",
+      "starring": "Robert Downey Jr"
+    },
+    {
+      "id": 9,
+      "title": "Captian America: The Winter Soldier",
+      "released": "April 4 2014",
+      "director": "Anthony Russo, Joa Russo",
+      "producer": "Kevin Feige",
+      "starring": "Chris Evans"
+    },
+    {
+      "id": 10,
+      "title": "Guardians of the Galaxy",
+      "released": "August 1, 2014",
+      "director": "James Gunn",
+      "producer": "Kevin Feige",
+      "starring": "Chris Pratt, Bradley Cooper, Vin Diesel, Pom Klementieff, Zoe Saldana, Dave Bautista"
+    },
+    {
+      "id": 11,
+      "title": "Guardians of the Galaxy vol.2",
+      "released": "May 5, 2017",
+      "director": "James Gunn",
+      "producer": "Kevin Feige",
+      "starring": "Chris Pratt, Bradley Cooper, Vin Diesel, Pom Klementieff, Zoe Saldana, Dave Bautista"
+    },
+    {
+      "id": 12,
+      "title": "Avengers: Age of Ultron",
+      "released": "May 1, 2015",
+      "director": "Joss Whedon",
+      "producer": "Kevin Feige",
+      "starring": "Robert Downey Jr, Chris Hemsworth, Mark Ruffalo, Chris Evens, Scarlett Johansson, Jeremy Renner"
+    },
+    {
+      "id": 13,
+      "title": "Ant-Man",
+      "released": "July 17, 2015",
+      "director": "Peyton Reed",
+      "producer": "Kevin Feige",
+      "starring": "Paul Rudd"
+    },
+    {
+      "id": 14,
+      "title": "Captain America: Civil War",
+      "released": "May 6, 2016",
+      "director": "Anthony Russo, Joe Russo",
+      "producer": "Kevin Feige",
+      "starring": "Robert Downey Jr, Chris Evens, Scarlett Johansson, Jeremy Renner, Anthony Mackie, Don Cheadle"
+    },
+    {
+      "id": 15,
+      "title": "Black Panther",
+      "released": "February 16, 2018",
+      "director": "Ryan Coogler",
+      "producer": "Kevin Feige",
+      "starring": "Chadwick Boseman, Michael B. Jordan"
+    },
+    {
+      "id": 16,
+      "title": "Black Widow",
+      "released": "July 9, 2021",
+      "director": "Cate Shortland",
+      "producer": "Kevin Feige",
+      "starring": "Scarlett Johansson"
+    },
+    {
+      "id": 17,
+      "title": "Doctor Strange",
+      "released": "October 20, 2016",
+      "director": "Scott Derrickson",
+      "producer": "Kevin Feige",
+      "starring": "Benidict Cumberbatch"
+    },
+    {
+      "id": 18,
+      "title": "Thor Ragnarok",
+      "released": "November 3, 2017",
+      "director": "Taika Waititi",
+      "producer": "Kevin Feige",
+      "starring": "Chris Hemsworth"
+    },
+    {
+      "id": 19,
+      "title": "Ant-Man and the Wasp",
+      "released": "June 25, 2018",
+      "director": "Payton Reed",
+      "producer": "Kevin Feige",
+      "starring": "Paul Rudd, Evangeline Lilly"
+    },
+    {
+      "id": 21,
+      "title": "Avengers: Infinity War",
+      "released": "April 23, 2018",
+      "director": "Anthony Russo, Joe Russo",
+      "producer": "Kevin Feige",
+      "starring": "Robert Downey Jr, Chris Hemsworth, Mark Ruffalo, Chris Evens, Scarlett Johansson, Jeremy Renner"
+    },
+    {
+      "id": 22,
+      "title": "Avengers: Endgame",
+      "released": "April 26, 2019",
+      "director": "Anthony Russo, Joe Russo",
+      "producer": "Kevin Feige",
+      "starring": "Robert Downey Jr, Chris Hemsworth, Mark Ruffalo, Chris Evens, Scarlett Johansson, Jeremy Renner"
+    },
+    {
+      "id": 23,
+      "title": "Spider-Man: Homecoming",
+      "released": "July 7, 2017",
+      "director": "Jon Watts",
+      "producer": "Kevin Feige",
+      "starring": "Tom Holland"
+    },
+    {
+      "id": 24,
+      "title": "Spider-Man: Far From Home",
+      "released": "July 2, 2019",
+      "director": "Jon Watts",
+      "producer": "Kevin Feige",
+      "starring": "Tom Holland"
+    },
+    {
+      "id": 25,
+      "title": "Loki",
+      "released": "June 9, 2021",
+      "Episodes": "6",
+      "director": "Kate Herron",
+      "producer": "Kevin Feige",
+      "starring": "Tom Hiddleston"
+    },
+    {
+      "id": 26,
+      "title": "WandaVision",
+      "released": "January 15, 2021",
+      "Episodes": "9",
+      "director": "Matt Shakman",
+      "producer": "Kevin Feige",
+      "starring": "Elizebeth Olsen, Paul Bettany"
+    },
+    {
+      "id": 27,
+      "title": "The Falcon and the Winter Soldier",
+      "released": "March 19, 2021",
+      "Episodes": "6",
+      "director": "Kari Skogland",
+      "producer": "Kevin Feige",
+      "starring": "Anthony Mackie, Sebastian Stan"
+    },
+    {
+      "id": 28,
+      "title": "Shang-chi and the Legend of the Ten Rings",
+      "released": "September 3, 2021",
+      "director": "Destin Daniel Cretton",
+      "producer": "Kevin Feige",
+      "starring": "Simu Liu"
+    },
+    {
+      "id": 29,
+      "title": "Hawkey",
+      "released": "November 24, 2021",
+      "Episodes": "4",
+      "director": "Rhys Thomas",
+      "producer": "Kevin Feige",
+      "starring": "Jeremy Renner"
     }
+    
   ]
 }
