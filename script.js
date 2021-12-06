@@ -1,18 +1,18 @@
-fetch('http://localhost:3000/MCU')
-    .then(res => res.json())
-    .then((json) => console.log(json));
-    
-const divTable = document.createElement('div');
+const myURL = `http://localhost:3000/mcu`
+const input = document.getElementById('input#search');
+const searchForm = document.getElementById('form');
 
-document.body.append(divTable);
-
-const table = document.createElement('table');
-
-for(let i = 0; i < 7; i++) {
-    const td = document.createElement('td');
-    const tr = document.createElement('tr');
+document.addEventListener('submit', handleSubmit);
+function handleSubmit(event){
+    event.preventDefault()
+    console.log('submit handled');
+    fetch(myURL)
+        .then(res => res.json())
+        .then(drinks);
 }
 
-
-
+const drinks = function(data){
+    console.log(data);
+    
+} 
 
