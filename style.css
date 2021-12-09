@@ -39,4 +39,31 @@ h2 {
 .searchbar{
       overflow: hidden;
       border: none;
+      padding-bottom: 50px;
   }
+
+.movie {
+    margin: 0 auto;
+    height: 250px;
+    width: 600px;
+    text-align: right;
+    color:white;
+    font-size: larger;
+    
+
+}
+
+.posts {
+    border: 5px solid black;
+    padding-right: 5px;    
+    box-shadow: 10px 5px 5px black ;
+    background-color: goldenrod;
+    background-image: url('Marvel1.gif');
+    overflow: hidden;
+}
+
+#title {
+    float: left;
+    font-size: 100px;
+    padding-left: 20px;
+}
