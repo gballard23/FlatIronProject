@@ -187,7 +187,6 @@
       "id": 25,
       "title": "Loki",
       "released": "June 9, 2021",
-      "Episodes": "6",
       "director": "Kate Herron",
       "producer": "Kevin Feige",
       "starring": "Tom Hiddleston"
@@ -196,7 +195,6 @@
       "id": 26,
       "title": "WandaVision",
       "released": "January 15, 2021",
-      "Episodes": "9",
       "director": "Matt Shakman",
       "producer": "Kevin Feige",
       "starring": "Elizebeth Olsen, Paul Bettany"
@@ -205,7 +203,6 @@
       "id": 27,
       "title": "The Falcon and the Winter Soldier",
       "released": "March 19, 2021",
-      "Episodes": "6",
       "director": "Kari Skogland",
       "producer": "Kevin Feige",
       "starring": "Anthony Mackie, Sebastian Stan"
@@ -222,7 +219,6 @@
       "id": 29,
       "title": "Hawkey",
       "released": "November 24, 2021",
-      "Episodes": "4",
       "director": "Rhys Thomas",
       "producer": "Kevin Feige",
       "starring": "Jeremy Renner"
