@@ -2,7 +2,7 @@
   "mcu": [
     {
       "id": 1,
-      "title": "Captian America: The First Avenger",
+      "title": "Captain America: The First Avenger",
       "released": "July 19, 2011",
       "director": "Joe Johnston",
       "producer": "Kevin Feige",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "title": "Captian Marvel",
+      "title": "Captain Marvel",
       "released": "March 4, 2019",
       "director": "Anne Boden, Ryan Fleck",
       "producer": "Kevin Feige",
@@ -65,7 +65,7 @@
     },
     {
       "id": 9,
-      "title": "Captian America: The Winter Soldier",
+      "title": "Captain America: The Winter Soldier",
       "released": "April 4 2014",
       "director": "Anthony Russo, Joa Russo",
       "producer": "Kevin Feige",
@@ -152,7 +152,7 @@
       "starring": "Paul Rudd, Evangeline Lilly"
     },
     {
-      "id": 21,
+      "id": 20,
       "title": "Avengers: Infinity War",
       "released": "April 23, 2018",
       "director": "Anthony Russo, Joe Russo",
@@ -160,7 +160,7 @@
       "starring": "Robert Downey Jr, Chris Hemsworth, Mark Ruffalo, Chris Evens, Scarlett Johansson, Jeremy Renner"
     },
     {
-      "id": 22,
+      "id": 21,
       "title": "Avengers: Endgame",
       "released": "April 26, 2019",
       "director": "Anthony Russo, Joe Russo",
@@ -168,7 +168,7 @@
       "starring": "Robert Downey Jr, Chris Hemsworth, Mark Ruffalo, Chris Evens, Scarlett Johansson, Jeremy Renner"
     },
     {
-      "id": 23,
+      "id": 22,
       "title": "Spider-Man: Homecoming",
       "released": "July 7, 2017",
       "director": "Jon Watts",
@@ -176,7 +176,7 @@
       "starring": "Tom Holland"
     },
     {
-      "id": 24,
+      "id": 23,
       "title": "Spider-Man: Far From Home",
       "released": "July 2, 2019",
       "director": "Jon Watts",
@@ -184,7 +184,7 @@
       "starring": "Tom Holland"
     },
     {
-      "id": 25,
+      "id": 24,
       "title": "Loki",
       "released": "June 9, 2021",
       "director": "Kate Herron",
@@ -192,7 +192,7 @@
       "starring": "Tom Hiddleston"
     },
     {
-      "id": 26,
+      "id": 25,
       "title": "WandaVision",
       "released": "January 15, 2021",
       "director": "Matt Shakman",
@@ -200,7 +200,7 @@
       "starring": "Elizebeth Olsen, Paul Bettany"
     },
     {
-      "id": 27,
+      "id": 26,
       "title": "The Falcon and the Winter Soldier",
       "released": "March 19, 2021",
       "director": "Kari Skogland",
@@ -208,7 +208,7 @@
       "starring": "Anthony Mackie, Sebastian Stan"
     },
     {
-      "id": 28,
+      "id": 27,
       "title": "Shang-chi and the Legend of the Ten Rings",
       "released": "September 3, 2021",
       "director": "Destin Daniel Cretton",
@@ -216,8 +216,8 @@
       "starring": "Simu Liu"
     },
     {
-      "id": 29,
-      "title": "Hawkey",
+      "id": 28,
+      "title": "Hawkeye",
       "released": "November 24, 2021",
       "director": "Rhys Thomas",
       "producer": "Kevin Feige",

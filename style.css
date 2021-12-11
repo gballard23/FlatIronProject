@@ -4,6 +4,8 @@
      background-position:0 15%;
      background-size: cover;
      margin: 0 auto;
+     overflow-y: auto;
+ 
      
  }
 
@@ -40,11 +42,12 @@ h2 {
       overflow: hidden;
       border: none;
       padding-bottom: 50px;
+      height: 800px;
   }
 
 .movie {
     margin: 0 auto;
-    height: 250px;
+    height: 850px;
     width: 600px;
     text-align: right;
     color:white;
@@ -59,11 +62,22 @@ h2 {
     box-shadow: 10px 5px 5px black ;
     background-color: goldenrod;
     background-image: url('Marvel1.gif');
+    background-size: cover;
     overflow: hidden;
+    width: 800px;
+    height: 300px;
+    
+    
 }
 
 #title {
     float: left;
-    font-size: 100px;
+    font-size-adjust: initial;
     padding-left: 20px;
+}
+
+
+.dig {
+    width: 600px;
+    height: 310px;
 }
