@@ -1,64 +1,52 @@
-const name = ["Captain America: The First Avenger", "Captain Marvel", "Iron Man", "Iron Man 2","Thor","Avengers","Thor: The Dark World","Iron Man 3","Captain America: The Winter Soldier","Guardians of the Galaxy","Guardians of the Galaxy vol.2","Avengers: Age of Ultron","Ant-Man","Captain America: Civil War","Black Panther","Black Widow","Doctor Strange","Thor Ragnarok","Ant-Man and the Wasp","Avengers: Infinity War","Avengers: Endgame","Spider-Man: Homecoming","Spider-Man: Far From Home","Loki","WandaVision","The Falcon and the Winter Soldier","Shang-chi and the Legend of the Ten Rings","Hawkeye"]
-
-const name2 = name.map(name =>name.toUpperCase());
-function index(array){
-  return name2.indexOf(array) +1;
-}
-
 let container = document.querySelector('.movie');
+let inputForm = document.querySelector('form');
 
-const init = async () => {
-  const inputForm = document.querySelector('form');
-     
   inputForm.addEventListener('submit', async (event) => {
     event.preventDefault();
-    const input = document.querySelector('input#search');
+    const input = document.querySelector('#search');
 
     console.log(input.value);
 
-    let id = index(input.value.toUpperCase());
-
-    let url = `http://localhost:3000/mcu/${id}`;
-
-   const res = await fetch(url);
-   const data = await res.json(); 
-   
-
-      console.log(data);
-
-    let newElement = document.createElement('div');
-    newElement.classList.add('dig');
-
-    container.appendChild(newElement);
-
-    let newContainer= document.querySelector('.dig');
-
-
-
+    const res = await fetch('http://localhost:3000/mcu')
+    const data = await res.json()
+    console.log(data);
     
-      
-      let temp = '';
-   
+    let movie = data.filter(function(item){
+      return item['title'].toUpperCase() === input['value'].toUpperCase()
+    })
+    console.log(movie)
+    for(let i = 0; i < movie.length; i++){
+      let newElement = document.createElement('div');
+      newElement.classList.add('posts');
 
-        temp = `
-          <div class="posts">
-            <h2 id="title"><strong>${data.title}</strong></h2>
-            <p id="date">Released:${data.released}</p>
-            <p id='direct'>Director:${data.director}</p>
-            <p id='producer'>Producer:${data.producer}</p>
-            <p id='star'>Starring:${data.starring}</p>
-          </div>
-        `
+      container.appendChild(newElement);
+
+      let h2 = document.createElement('h2');
+      h2.innerHTML = movie[i].title;
+      newElement.appendChild(h2);
+
+      let p = document.createElement('p');
+      p.innerHTML = movie[i].director;
+      newElement.appendChild(p);
+
+      let p2 = document.createElement('p');
+      p2.innerHTML = movie[i].producer;
+      newElement.appendChild(p2);
+
+      let p3 = document.createElement('p');
+      p3.innerHTML = movie[i].starring;
+      newElement.appendChild(p3);
+
+      let p4 = document.createElement('p');
+      p4.innerHTML = movie[i].released;
+      newElement.appendChild(p4);
+
+      newElement.style.backgroundImage = `url(${movie[i].image})`;
+
+    }
   
-      newContainer.innerHTML = temp;
-
-
-   
-    
   })
-}
-
-window.addEventListener('DOMContentLoaded', init);
+  
 
 const form = document.querySelector('form');
 form.addEventListener('submit', myPlay);

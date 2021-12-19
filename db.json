@@ -6,7 +6,8 @@
       "released": "July 19, 2011",
       "director": "Joe Johnston",
       "producer": "Kevin Feige",
-      "starring": "Chris Evans"
+      "starring": "Chris Evans",
+      "image": "Captain-America-First-Avenger-gif.gif"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "released": "March 4, 2019",
       "director": "Anne Boden, Ryan Fleck",
       "producer": "Kevin Feige",
-      "starring": "Brie Larson"
+      "starring": "Brie Larson",
+      "image": "https://blog.lootcrate.com/wp-content/uploads/2019/02/ezgif-4-39b59a94c8d6.gif"
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "released": "May 2, 2008",
       "director": "Jon Favreau",
       "producer": "Kevin Feige",
-      "starring": "Robert Downey Jr"
+      "starring": "Robert Downey Jr",
+      "image": "https://c.tenor.com/McOX5AY0Hi0AAAAC/ironman-tony-stark.gif"
     },
     {
       "id": 4,
@@ -30,22 +33,25 @@
       "released": "May 7, 2010",
       "director": "Jon Favreau",
       "producer": "Kevin Feige",
-      "starring": "Robert Downey Jr"
+      "starring": "Robert Downey Jr",
+      "image": "https://pa1.narvii.com/7127/3d1ec256bf671b6fd98e575c90548815d3e760d0r1-586-250_hq.gif"
     },
     {"id": 5,
       "title": "Thor",
       "released": "May 2, 2011",
       "director": "Kenneth Branagh",
       "producer": "Kevin Feige",
-      "starring": "Chris Hemsworth"
+      "starring": "Chris Hemsworth",
+      "image": "https://comicvine1.cbsistatic.com/uploads/original/11134/111347991/7069696-6940126-7486950509-giphy.gif"
     },
     {
       "id": 6,
-      "title": "Avenger",
+      "title": "The Avengers",
       "released": "May 4, 2012",
       "director": "Joss Whedon",
       "producer": "Kevin Feige",
-      "starring": "Robert Downey Jr, Chris Hemsworth, Mark Ruffalo, Chris Evens, Scarlett Johansson, Jeremy Renner"
+      "starring": "Robert Downey Jr, Chris Hemsworth, Mark Ruffalo, Chris Evens, Scarlett Johansson, Jeremy Renner",
+      "image":"https://i.pinimg.com/originals/4a/07/39/4a073948a0d230d0f96bded24e569291.gif"
     },
     {
       "id": 7,
@@ -53,7 +59,8 @@
       "released": "November 8, 2013",
       "director": "Alan Taylor",
       "producer": "Kevin Feige",
-      "starring": "Chris Hemsworth"
+      "starring": "Chris Hemsworth",
+      "image": "https://c.tenor.com/hcA1nF4HCxEAAAAd/movies.gif"
     },
     {
       "id": 8,
@@ -61,7 +68,8 @@
       "released": "May 3, 2013",
       "director": "Shane Black",
       "producer": "Kevin Feige",
-      "starring": "Robert Downey Jr"
+      "starring": "Robert Downey Jr",
+      "image": "https://i.pinimg.com/originals/7b/5f/31/7b5f313a2d9497a7cdef4208bb70d032.gif"
     },
     {
       "id": 9,
@@ -69,7 +77,8 @@
       "released": "April 4 2014",
       "director": "Anthony Russo, Joa Russo",
       "producer": "Kevin Feige",
-      "starring": "Chris Evans"
+      "starring": "Chris Evans",
+      "image": "https://musingsfromnevillesnavel.files.wordpress.com/2015/03/the-winter-soldier-shield-throw-catch-gif.gif"
     },
     {
       "id": 10,
@@ -77,7 +86,8 @@
       "released": "August 1, 2014",
       "director": "James Gunn",
       "producer": "Kevin Feige",
-      "starring": "Chris Pratt, Bradley Cooper, Vin Diesel, Pom Klementieff, Zoe Saldana, Dave Bautista"
+      "starring": "Chris Pratt, Bradley Cooper, Vin Diesel, Pom Klementieff, Zoe Saldana, Dave Bautista",
+      "image": "https://i.pinimg.com/originals/6d/76/9e/6d769e987aa9b3b44969664f19b08cce.gif"
     },
     {
       "id": 11,
@@ -85,7 +95,8 @@
       "released": "May 5, 2017",
       "director": "James Gunn",
       "producer": "Kevin Feige",
-      "starring": "Chris Pratt, Bradley Cooper, Vin Diesel, Pom Klementieff, Zoe Saldana, Dave Bautista"
+      "starring": "Chris Pratt, Bradley Cooper, Vin Diesel, Pom Klementieff, Zoe Saldana, Dave Bautista",
+      "image": "https://i1.wp.com/wsash.com/wp-content/uploads/2017/11/gog_titlecard.gif?ssl=1"
     },
     {
       "id": 12,
@@ -93,7 +104,8 @@
       "released": "May 1, 2015",
       "director": "Joss Whedon",
       "producer": "Kevin Feige",
-      "starring": "Robert Downey Jr, Chris Hemsworth, Mark Ruffalo, Chris Evens, Scarlett Johansson, Jeremy Renner"
+      "starring": "Robert Downey Jr, Chris Hemsworth, Mark Ruffalo, Chris Evens, Scarlett Johansson, Jeremy Renner",
+      "image": "https://data.whicdn.com/images/272434693/original.gif"
     },
     {
       "id": 13,
@@ -101,15 +113,17 @@
       "released": "July 17, 2015",
       "director": "Peyton Reed",
       "producer": "Kevin Feige",
-      "starring": "Paul Rudd"
+      "starring": "Paul Rudd",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a53852aa-d6f6-436d-a0a8-70997cc09eac/dapunnn-4ee116a1-009d-4bc2-9634-56f41a35f01b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E1Mzg1MmFhLWQ2ZjYtNDM2ZC1hMGE4LTcwOTk3Y2MwOWVhY1wvZGFwdW5ubi00ZWUxMTZhMS0wMDlkLTRiYzItOTYzNC01NmY0MWEzNWYwMWIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tM71RHjMMLbHAjS4Ol38Z1kPQtpPWMUpKh53uq-6I8I"
     },
-    {
+      {
       "id": 14,
       "title": "Captain America: Civil War",
       "released": "May 6, 2016",
       "director": "Anthony Russo, Joe Russo",
       "producer": "Kevin Feige",
-      "starring": "Robert Downey Jr, Chris Evens, Scarlett Johansson, Jeremy Renner, Anthony Mackie, Don Cheadle"
+      "starring": "Robert Downey Jr, Chris Evens, Scarlett Johansson, Jeremy Renner, Anthony Mackie, Don Cheadle",
+      "image": "https://c.tenor.com/q-VfF96NQFYAAAAC/avengers-civil-war.gif"
     },
     {
       "id": 15,
@@ -117,7 +131,8 @@
       "released": "February 16, 2018",
       "director": "Ryan Coogler",
       "producer": "Kevin Feige",
-      "starring": "Chadwick Boseman, Michael B. Jordan"
+      "starring": "Chadwick Boseman, Michael B. Jordan",
+      "image": "https://townsquare.media/site/442/files/2017/10/blackpantherGIF11.gif?w=700&h=289&q=75"
     },
     {
       "id": 16,
@@ -125,7 +140,8 @@
       "released": "July 9, 2021",
       "director": "Cate Shortland",
       "producer": "Kevin Feige",
-      "starring": "Scarlett Johansson"
+      "starring": "Scarlett Johansson",
+      "image": "https://i.pinimg.com/originals/98/d9/1c/98d91c25da73558d1883a60b8ae70ccd.gif"
     },
     {
       "id": 17,
@@ -133,7 +149,8 @@
       "released": "October 20, 2016",
       "director": "Scott Derrickson",
       "producer": "Kevin Feige",
-      "starring": "Benidict Cumberbatch"
+      "starring": "Benidict Cumberbatch",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5ef6c04d-6d7f-4d51-860a-2db90f5bac39/db5vq70-ce81646f-aa57-4558-af4f-2f1ba6f0f179.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVlZjZjMDRkLTZkN2YtNGQ1MS04NjBhLTJkYjkwZjViYWMzOVwvZGI1dnE3MC1jZTgxNjQ2Zi1hYTU3LTQ1NTgtYWY0Zi0yZjFiYTZmMGYxNzkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.YesG_3WuG6iqzgn2EDCe48yAVyVYeukI_57wLD0gUvU"
     },
     {
       "id": 18,
@@ -141,7 +158,8 @@
       "released": "November 3, 2017",
       "director": "Taika Waititi",
       "producer": "Kevin Feige",
-      "starring": "Chris Hemsworth"
+      "starring": "Chris Hemsworth",
+      "image": "https://i.pinimg.com/originals/22/e8/6c/22e86c5523114d319494cf0f14d5ab87.gif"
     },
     {
       "id": 19,
@@ -149,7 +167,8 @@
       "released": "June 25, 2018",
       "director": "Payton Reed",
       "producer": "Kevin Feige",
-      "starring": "Paul Rudd, Evangeline Lilly"
+      "starring": "Paul Rudd, Evangeline Lilly",
+      "image": "https://c.tenor.com/lsb1RyrxPY0AAAAC/ant-man-the-wasp.gif"
     },
     {
       "id": 20,
@@ -157,7 +176,8 @@
       "released": "April 23, 2018",
       "director": "Anthony Russo, Joe Russo",
       "producer": "Kevin Feige",
-      "starring": "Robert Downey Jr, Chris Hemsworth, Mark Ruffalo, Chris Evens, Scarlett Johansson, Jeremy Renner"
+      "starring": "Robert Downey Jr, Chris Hemsworth, Mark Ruffalo, Chris Evens, Scarlett Johansson, Jeremy Renner",
+      "image": "https://giffiles.alphacoders.com/207/207375.gif"
     },
     {
       "id": 21,
@@ -165,7 +185,8 @@
       "released": "April 26, 2019",
       "director": "Anthony Russo, Joe Russo",
       "producer": "Kevin Feige",
-      "starring": "Robert Downey Jr, Chris Hemsworth, Mark Ruffalo, Chris Evens, Scarlett Johansson, Jeremy Renner"
+      "starring": "Robert Downey Jr, Chris Hemsworth, Mark Ruffalo, Chris Evens, Scarlett Johansson, Jeremy Renner",
+      "image": "https://media2.giphy.com/media/j2pWZpr5RlpCodOB0d/giphy.gif?cid=ecf05e47dtn28kohrcvevig9xxw7ft0orhs3j3wgfjksstqk&rid=giphy.gif&ct=g"
     },
     {
       "id": 22,
@@ -173,7 +194,8 @@
       "released": "July 7, 2017",
       "director": "Jon Watts",
       "producer": "Kevin Feige",
-      "starring": "Tom Holland"
+      "starring": "Tom Holland",
+      "image": "https://giffiles.alphacoders.com/815/81577.gif"
     },
     {
       "id": 23,
@@ -181,7 +203,8 @@
       "released": "July 2, 2019",
       "director": "Jon Watts",
       "producer": "Kevin Feige",
-      "starring": "Tom Holland"
+      "starring": "Tom Holland",
+      "image": "https://c.tenor.com/H2w94LtznTIAAAAC/spider-man-far-from-home.gif"
     },
     {
       "id": 24,
@@ -189,7 +212,8 @@
       "released": "June 9, 2021",
       "director": "Kate Herron",
       "producer": "Kevin Feige",
-      "starring": "Tom Hiddleston"
+      "starring": "Tom Hiddleston",
+      "image": "https://media0.giphy.com/media/Us4PYnHPHNiRS9qHtB/giphy.gif?cid=ecf05e47h5stp8k133ot7yuy8vpb1u3bcseipxdl6o91jfci&rid=giphy.gif&ct=g"
     },
     {
       "id": 25,
@@ -197,7 +221,8 @@
       "released": "January 15, 2021",
       "director": "Matt Shakman",
       "producer": "Kevin Feige",
-      "starring": "Elizebeth Olsen, Paul Bettany"
+      "starring": "Elizebeth Olsen, Paul Bettany",
+      "image": "https://media.vanityfair.com/photos/6041366c003ee7af5a38f2a2/master/w_1600,c_limit/creation.gif"
     },
     {
       "id": 26,
@@ -205,7 +230,8 @@
       "released": "March 19, 2021",
       "director": "Kari Skogland",
       "producer": "Kevin Feige",
-      "starring": "Anthony Mackie, Sebastian Stan"
+      "starring": "Anthony Mackie, Sebastian Stan",
+      "image": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_200,w_482,x_0,y_0/dpr_1.5/c_limit,w_690/fl_lossy,q_auto/200_jnnprf"
     },
     {
       "id": 27,
@@ -213,7 +239,8 @@
       "released": "September 3, 2021",
       "director": "Destin Daniel Cretton",
       "producer": "Kevin Feige",
-      "starring": "Simu Liu"
+      "starring": "Simu Liu",
+      "image": "https://c.tenor.com/LluSCBY5AoIAAAAC/shang-chi-and-the-legend-of-the-ten-rings-marvel-studios.gif"
     },
     {
       "id": 28,
@@ -221,7 +248,8 @@
       "released": "November 24, 2021",
       "director": "Rhys Thomas",
       "producer": "Kevin Feige",
-      "starring": "Jeremy Renner"
+      "starring": "Jeremy Renner",
+      "image": "https://64.media.tumblr.com/tumblr_m56nmj8qIO1qf2suro1_500.gifv"
     }
     
   ]

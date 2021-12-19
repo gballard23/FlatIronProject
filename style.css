@@ -4,10 +4,7 @@
      background-position:0 15%;
      background-size: cover;
      margin: 0 auto;
-     overflow-y: auto;
- 
-     
- }
+     }
 
 h1, h2 {
     color: rgb(253, 251, 251);
@@ -33,6 +30,7 @@ h2 {
     margin: 0 auto;
     display: block;
       }
+      
 #btnClick{
     margin: 0 auto;
     display: block;
@@ -52,7 +50,7 @@ h2 {
     text-align: right;
     color:white;
     font-size: larger;
-    
+
 
 }
 
@@ -61,13 +59,10 @@ h2 {
     padding-right: 5px;    
     box-shadow: 10px 5px 5px black ;
     background-color: goldenrod;
-    background-image: url('Marvel1.gif');
     background-size: cover;
     overflow: hidden;
     width: 800px;
     height: 300px;
-    
-    
 }
 
 #title {
