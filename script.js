@@ -1,5 +1,5 @@
-let container = document.querySelector('.movie');
-let inputForm = document.querySelector('form');
+const container = document.querySelector('.movie');
+const inputForm = document.querySelector('form');
 
   inputForm.addEventListener('submit', async (event) => {
     event.preventDefault();
@@ -16,42 +16,63 @@ let inputForm = document.querySelector('form');
     })
     console.log(movie)
     for(let i = 0; i < movie.length; i++){
-      let newElement = document.createElement('div');
+      const newElement = document.createElement('div');
       newElement.classList.add('posts');
 
       container.appendChild(newElement);
 
-      let h2 = document.createElement('h2');
+      const h2 = document.createElement('h2');
       h2.innerHTML = movie[i].title;
       newElement.appendChild(h2);
 
-      let p = document.createElement('p');
-      p.innerHTML = movie[i].director;
+      const p = document.createElement('p');
+      p.innerHTML = `Director: ${movie[i].director}`;
       newElement.appendChild(p);
 
-      let p2 = document.createElement('p');
-      p2.innerHTML = movie[i].producer;
+      const p2 = document.createElement('p');
+      p2.innerHTML = `Producer: ${movie[i].producer}`;
       newElement.appendChild(p2);
 
-      let p3 = document.createElement('p');
-      p3.innerHTML = movie[i].starring;
+      const p3 = document.createElement('p');
+      p3.innerHTML = `Starring: ${movie[i].starring}`;
       newElement.appendChild(p3);
 
-      let p4 = document.createElement('p');
-      p4.innerHTML = movie[i].released;
+      const p4 = document.createElement('p');
+      p4.innerHTML = `Released: ${movie[i].released}`;
       newElement.appendChild(p4);
-
+      
+      play();
       newElement.style.backgroundImage = `url(${movie[i].image})`;
-
     }
+    
   
   })
   
 
-const form = document.querySelector('form');
-form.addEventListener('submit', myPlay);
 
-function myPlay(){
-  let audio = new Audio('The-Avengers-Theme-Song.mp3');
-  audio.play();
+function play() {
+  const audio = new Audio('avengers-assemble.mp3');
+      audio.play();
+   
 }
+
+
+const btn = document.querySelector('#btn');
+
+btn.addEventListener('click', event => {
+  event.preventDefault();
+  const gif = document.createElement('div');
+  gif.classList.add('gif')
+  container.appendChild(gif);
+  gif.style.backgroundImage= "url('deadpool.gif')";
+     
+  play2();
+  
+})
+
+function play2() {
+  let audio = new Audio('deadpool2.mp3')
+  audio.play();
+   
+}
+

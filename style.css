@@ -20,12 +20,44 @@ h1 {
     padding-bottom: 15px;
 }
 
+.gif{
+    border: 5px solid black;
+    padding-right: 5px;    
+    box-shadow: 10px 5px 5px black ;
+    background-color: goldenrod;
+    background-size: cover;
+    overflow: hidden;
+    width: 800px;
+    height: 300px;
+    margin-top: 15px;
+}
 h2 {
     font-size: 2rem;
     margin: 0 auto 50px;
     position: top;
 }
+#btn{
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
 
+#marvel{
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 4rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#marvel:hover{
+    color: black;
+}
+#btn:hover{
+    color: black;
+}
 #search{
     margin: 0 auto;
     display: block;
@@ -63,6 +95,8 @@ h2 {
     overflow: hidden;
     width: 800px;
     height: 300px;
+    margin-top: 15px;
+
 }
 
 #title {
