@@ -76,3 +76,13 @@ function play2() {
    
 }
 
+
+const marvel = document.querySelector('#marvel');
+const image = document.querySelector('.image1');
+const bckChange = ['image1','image2','image3','image4','image5','image6','image7','image8','image9','image10']
+let item = bckChange[Math.floor(Math.random()*bckChange.length)]
+
+marvel.addEventListener('click', event =>{
+  event.preventDefault()
+  image.classList.add(`${bckChange[Math.floor(Math.random()*bckChange.length)]}`);
+})

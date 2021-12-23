@@ -1,112 +1,163 @@
- body {
-     background-image: url("mcuposter.png");
+body {
      background-color: #cccccc;
      background-position:0 15%;
      background-size: cover;
      margin: 0 auto;
-     }
+     max-width: 100%;
+     max-height: 100vh;
+}
+
+.image1 {
+     background-image: url("https://www.geo.tv/assets/uploads/updates/2018-06-12/198944_7751485_updates.jpg");
+}
+
+.image2 {
+     background-image: url("https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/1556582040238-PTQ8EP4WMQH73IU2G7K7/image-asset.jpeg?format=2500w");
+     
+}
+
+.image3 {
+     background-image: url("https://mocah.org/thumbs/1141178-Thor-text-Marvel-Comics-Guardians-of-the-Galaxy-Iron-Man-Hulk-The-Avengers-Spider-Man-Marvel-Cinematic-Universe-Iron-Fist-Daredevil-Iron-Man-2-Thor-2-The-Dark-World-Ave.jpg");
+   
+}
+
+.image4 {
+     background-image: url("https://mocah.org/thumbs/1003267-monochrome-anime-Marvel-Comics-warrior-Black-Panther-Captain-America-Civil-War-Marvel-Cinematic-Universe-darkness-screenshot-mecha-computer-wallpaper-fictional-characte.jpg");
+    
+}
+
+.image5 {
+     background-image: url("https://mocah.org/thumbs/4535996-black-widow-hawkeye-clint-barton-tony-stark-the-vision-black-panther-scarlet-witch-iron-man-captain-america-artwork-the-avengers-captain-america-civil-war-ant-man-spider-man-marvel-comics-falcon.jpg");
+     
+}
+
+.image6 {
+     background-image: url("https://mocah.org/thumbs/4508731-marvel-comics-comics-guardians-of-the-galaxy-marvel-cinematic-universe.jpg");
+
+}
+
+.image7 {
+     background-image: url("https://mocah.org/thumbs/4508717-heart-marvel-comics-comics-deadpool-marvel-cinematic-universe-love.jpg");
+    
+}
+
+.image8 {
+     background-image: url("https://mocah.org/thumbs/4513735-black-widow-scarlett-johansson-robert-downey-jr.-chris-evans-jeremy-renner-chris-hemsworth-mark-ruffalo-iron-man-thor-captain-america-hulk-the-avengers-marvel-comics-marvel-cinematic-universe-sh.jpg");
+    
+}
+
+.image9 {
+     background-image: url("https://mocah.org/thumbs/4506218-bob-ross-deadpool-afro-painting-humor-movies-marvel-cinematic-universe.jpg");
+     
+}
+
+.image10 {
+     background-image: url("https://mocah.org/thumbs/964659-digital-digital-art-artwork-minimalism-illustration.jpg");
+  
+}
 
 h1, h2 {
-    color: rgb(253, 251, 251);
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: bold;
-    text-align: center;    
+     color: rgb(253, 251, 251);
+     font-family: 'Times New Roman', Times, serif;
+     font-weight: bold;
+     text-align: center;    
 }
 
 h1 {
-    font-size: 4rem;
-    margin-top: 30vh;
-    margin-bottom: 15px;
-    padding-bottom: 15px;
+     font-size: 4rem;
+     margin-top: 30vh;
+     margin-bottom: 15px;
+     padding-bottom: 15px;
 }
 
 .gif{
-    border: 5px solid black;
-    padding-right: 5px;    
-    box-shadow: 10px 5px 5px black ;
-    background-color: goldenrod;
-    background-size: cover;
-    overflow: hidden;
-    width: 800px;
-    height: 300px;
-    margin-top: 15px;
+     border: 5px solid black;
+     padding-right: 5px;    
+     box-shadow: 10px 5px 5px black ;
+     background-color: goldenrod;
+     background-size: cover;
+     overflow: hidden;
+     width: 800px;
+     height: 300px;
+     margin-top: 15px;
 }
+
 h2 {
-    font-size: 2rem;
-    margin: 0 auto 50px;
-    position: top;
+     font-size: 2rem;
+     margin: 0 auto 50px;
+     position: top;
 }
+
 #btn{
-    background: transparent;
-    border: none;
-    color: white;
-    font-size: 2rem;
-    font-family: 'Times New Roman', Times, serif;
+     background: transparent;
+     border: none;
+     color: white;
+     font-size: 2rem;
+     font-family: 'Times New Roman', Times, serif;
 }
 
 #marvel{
-    background: transparent;
-    border: none;
-    color: white;
-    font-size: 4rem;
-    font-family: 'Times New Roman', Times, serif;
+     background: transparent;
+     border: none;
+     color: white;
+     font-size: 4rem;
+     font-family: 'Times New Roman', Times, serif;
 }
 
 #marvel:hover{
-    color: black;
+     color: black;
 }
+
 #btn:hover{
-    color: black;
+     color: black;
 }
+
 #search{
-    margin: 0 auto;
-    display: block;
-      }
+     margin: 0 auto;
+     display: block;
+}
       
 #btnClick{
-    margin: 0 auto;
-    display: block;
-    
+     margin: 0 auto;
+     display: block;
 }
+
 .searchbar{
-      overflow: hidden;
-      border: none;
-      padding-bottom: 50px;
-      height: 800px;
-  }
+     overflow: hidden;
+     border: none;
+     padding-bottom: 50px;
+     height: 0px;
+}
 
 .movie {
-    margin: 0 auto;
-    height: 850px;
-    width: 600px;
-    text-align: right;
-    color:white;
-    font-size: larger;
-
-
+     margin: 0 auto;
+     height: 850px;
+     width: 600px;
+     text-align: right;
+     color:white;
+     font-size: larger;
 }
 
 .posts {
-    border: 5px solid black;
-    padding-right: 5px;    
-    box-shadow: 10px 5px 5px black ;
-    background-color: goldenrod;
-    background-size: cover;
-    overflow: hidden;
-    width: 800px;
-    height: 300px;
-    margin-top: 15px;
-
+     border: 5px solid black;
+     padding-right: 5px;    
+     box-shadow: 10px 5px 5px black ;
+     background-color: goldenrod;
+     background-size: cover;
+     overflow: hidden;
+     width: 800px;
+     height: 300px;
+     margin-top: 15px;
 }
 
 #title {
-    float: left;
-    font-size-adjust: initial;
-    padding-left: 20px;
+     float: left;
+     font-size-adjust: initial;
+     padding-left: 20px;
 }
 
 
 .dig {
-    width: 600px;
-    height: 310px;
+     width: 600px;
+     height: 310px;
 }
